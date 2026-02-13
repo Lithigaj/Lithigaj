@@ -155,13 +155,24 @@ me = LithigaResearch()
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {
   'background': '#0D1117',
+
   'primaryColor': '#9D4EDD',
-  'primaryTextColor': '#ffffff',
-  'primaryBorderColor': '#9D4EDD',
-  'lineColor': '#9D4EDD',
-  'secondaryColor': '#7B2CBF',
-  'tertiaryColor': '#3C096C'
+  'secondaryColor': '#C77DFF',
+  'tertiaryColor': '#7B2CBF',
+
+  'primaryBorderColor': '#E0AAFF',
+  'lineColor': '#C77DFF',
+
+  'textColor': '#FFFFFF',
+  'primaryTextColor': '#FFFFFF',
+  'secondaryTextColor': '#FFFFFF',
+  'tertiaryTextColor': '#FFFFFF',
+
+  'mindmapNodeBkg': '#9D4EDD',
+  'mindmapNodeBorder': '#E0AAFF',
+  'mindmapTextColor': '#FFFFFF'
 }}}%%
+
 mindmap
   root((<b>🧠<br>Research</b>))
     <b>📊 Computer Vision</b>
