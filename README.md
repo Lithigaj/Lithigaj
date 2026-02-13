@@ -111,7 +111,7 @@ me = LithigaResearch()
 </div>
 
 <div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD&cache_seconds=1800" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&hide_border=true&ring=%239D4EDD&fire=%239D4EDD&currStreakLabel=%239D4EDD&sideLabels=%239D4EDD&sideNums=%239D4EDD&dates=%239D4EDD&cache_seconds=1800" />
 </div>
 <br>
 
