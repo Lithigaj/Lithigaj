@@ -25,7 +25,7 @@ class LithigaResearch:
     def current_focus(self):
         return {
             "research": "Multimodal Learning Systems",
-            "learning": "Transformer Architectures",
+            "learning": "What sparks my curiosity ✨",
             "goal": "Publish at top conferences"
         }
     
@@ -153,27 +153,38 @@ me = LithigaResearch()
 ### **Journal Papers** ⋆ **Research Collaborations**
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {
+  'background': '#0D1117',
+  'primaryColor': '#9D4EDD',
+  'primaryTextColor': '#ffffff',
+  'primaryBorderColor': '#9D4EDD',
+  'lineColor': '#9D4EDD',
+  'secondaryColor': '#7B2CBF',
+  'tertiaryColor': '#3C096C'
+}}}%%
 mindmap
-  root((🧠 Research))
-    Computer Vision
-      🏏 Sports Analytics
-      🤟 Gesture Recognition
-      👁️ Object Detection
-    Reinforcement Learning
-      🚗 Autonomous Systems
-      🎮 Deep Q Learning
-      📈 Policy Optimization
-    Affective Computing
-      🎓 Emotion Recognition
-      📚 Adaptive Learning
-      👥 Multimodal AI
-    Publications
-      📝 Journal Papers
-      🎤 Conference Talks
-      🤝 Research Collabs
+  root((<b>🧠<br>Research</b>))
+    <b>📊 Computer Vision</b>
+      <b>🏏 Sports Analytics</b>
+      <b>🤟 Gesture Recognition</b>
+      <b>👁️ Object Detection</b>
+    <b>🤖 Reinforcement Learning</b>
+      <b>🚗 Autonomous Systems</b>
+      <b>🎮 Deep Q Learning</b>
+      <b>📈 Policy Optimization</b>
+    <b>💜 Affective Computing</b>
+      <b>🎓 Emotion Recognition</b>
+      <b>📚 Adaptive Learning</b>
+      <b>👥 Multimodal AI</b>
+    <b>📝 Publications</b>
+      <b>📑 Journal Papers</b>
+      <b>🎤 Conference Talks</b>
+      <b>🤝 Research Collabs</b>
 ```
 
+
 </div>
+
 
 ## 🏆 **Achievements**
 
@@ -218,22 +229,9 @@ mindmap
   
 ### ⚡ *"Research is creating new knowledge." – Neil Armstrong* ⚡
 
-**Open for research collaborations, paper reviews, and academic discussions!**
+**Open for research collaborations and academic discussions!**
 
-**Last Updated: 2024**
 
 </div>
 
 ---
-
-## ✅ **Changes Made:**
-
-| Change | Details |
-|--------|---------|
-| **Removed Google Scholar** | Deleted the Google Scholar badge and link |
-| **New Research Proverb** | Added Einstein quote about curiosity |
-| **Footer Proverb** | Added Neil Armstrong quote about research |
-| **Clean Layout** | Maintained all sections with proper formatting |
-| **Color Scheme** | Kept consistent purple (#9D4EDD) theme |
-
-Perfect for your research-focused GitHub profile! 🎓🔬
