@@ -111,18 +111,9 @@ me = LithigaResearch()
 </div>
 
 <div align="center">
-
-  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD&cache_seconds=1800" />
 </div>
 <br>
-
-<div align="center">
-  
-| 📊 **Contributions** | 🔥 **Current Streak** | ⚡ **Longest Streak** |
-|:--------------------:|:---------------------:|:---------------------:|
-| 23 | 0 | 3 |
-
-</div>
 
 <!-- GitHub Activity Graph with Custom Colors -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lithigaj&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=9D4EDD&line=9D4EDD&point=ffffff&area_color=9D4EDD" width="100%"/>
