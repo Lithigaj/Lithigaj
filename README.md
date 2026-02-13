@@ -111,11 +111,6 @@ me = LithigaResearch()
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-
-  <br><br>
 
   <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
@@ -156,27 +151,31 @@ me = LithigaResearch()
 
 ```mermaid
 flowchart TD
-    R((🧠 Research))
+    classDef main fill:#9D4EDD,color:white,stroke-width:2px
+    classDef sub fill:#1F1B24,color:white
+    classDef leaf fill:#0D1117,color:#9D4EDD,stroke:#9D4EDD
 
-    R --> CV[📊 Computer Vision]
-    CV --> SA[🏏 Sports Analytics]
-    CV --> GR[🤟 Gesture Recognition]
-    CV --> OD[👁️ Object Detection]
+    R((🧠 Research)):::main
 
-    R --> RL[🤖 Reinforcement Learning]
-    RL --> AS[🚗 Autonomous Systems]
-    RL --> DQL[🎮 Deep Q Learning]
-    RL --> PO[📈 Policy Optimization]
+    R --> CV[📊 Computer Vision]:::sub
+    CV --> SA[🏏 Sports Analytics]:::leaf
+    CV --> GR[🤟 Gesture Recognition]:::leaf
+    CV --> OD[👁️ Object Detection]:::leaf
 
-    R --> AC[💜 Affective Computing]
-    AC --> ER[🎓 Emotion Recognition]
-    AC --> AL[📚 Adaptive Learning]
-    AC --> MAI[👥 Multimodal AI]
+    R --> RL[🤖 Reinforcement Learning]:::sub
+    RL --> AS[🚗 Autonomous Systems]:::leaf
+    RL --> DQL[🎮 Deep Q Learning]:::leaf
+    RL --> PO[📈 Policy Optimization]:::leaf
 
-    R --> PUB[📝 Publications]
-    PUB --> JP[📑 Journal Papers]
-    PUB --> CT[🎤 Conference Talks]
-    PUB --> RC[🤝 Research Collabs]
+    R --> AC[💜 Affective Computing]:::sub
+    AC --> ER[🎓 Emotion Recognition]:::leaf
+    AC --> AL[📚 Adaptive Learning]:::leaf
+    AC --> MAI[👥 Multimodal AI]:::leaf
+
+    R --> PUB[📝 Publications]:::sub
+    PUB --> JP[📑 Journal Papers]:::leaf
+    PUB --> CT[🎤 Conference Talks]:::leaf
+    PUB --> RC[🤝 Research Collabs]:::leaf
 ```
 
 
