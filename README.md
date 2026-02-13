@@ -111,12 +111,14 @@ me = LithigaResearch()
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff&bg_color=0D1117" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true&title_color=9D4EDD&text_color=ffffff&bg_color=0D1117" />
-  <br>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithigaj&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD" />
-</div>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true" />
+
+  <br><br>
+
+  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true" />
+</div>
 <br>
 
 <div align="center">
@@ -153,26 +155,6 @@ me = LithigaResearch()
 ### **Journal Papers** ⋆ **Research Collaborations**
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-  'background': '#0D1117',
-
-  'primaryColor': '#7B2CBF',
-  'secondaryColor': '#9D4EDD',
-  'tertiaryColor': '#C77DFF',
-
-  'primaryBorderColor': '#E0AAFF',
-  'lineColor': '#9D4EDD',
-
-  'textColor': '#FFFFFF',
-  'primaryTextColor': '#FFFFFF',
-  'secondaryTextColor': '#FFFFFF',
-  'tertiaryTextColor': '#FFFFFF',
-
-  'nodeTextColor': '#FFFFFF',
-  'mainBkg': '#7B2CBF',
-  'nodeBorder': '#E0AAFF'
-}}}%%
-
 mindmap
   root((🧠 Research))
     📊 Computer Vision
