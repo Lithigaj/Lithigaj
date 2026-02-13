@@ -111,13 +111,13 @@ me = LithigaResearch()
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 
   <br><br>
 
-  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=radical&hide_border=true&cache_seconds=1800" />
 </div>
 <br>
 
@@ -155,24 +155,28 @@ me = LithigaResearch()
 ### **Journal Papers** ⋆ **Research Collaborations**
 
 ```mermaid
-mindmap
-  root((🧠 Research))
-    📊 Computer Vision
-      🏏 Sports Analytics
-      🤟 Gesture Recognition
-      👁️ Object Detection
-    🤖 Reinforcement Learning
-      🚗 Autonomous Systems
-      🎮 Deep Q Learning
-      📈 Policy Optimization
-    💜 Affective Computing
-      🎓 Emotion Recognition
-      📚 Adaptive Learning
-      👥 Multimodal AI
-    📝 Publications
-      📑 Journal Papers
-      🎤 Conference Talks
-      🤝 Research Collabs
+flowchart TD
+    R((🧠 Research))
+
+    R --> CV[📊 Computer Vision]
+    CV --> SA[🏏 Sports Analytics]
+    CV --> GR[🤟 Gesture Recognition]
+    CV --> OD[👁️ Object Detection]
+
+    R --> RL[🤖 Reinforcement Learning]
+    RL --> AS[🚗 Autonomous Systems]
+    RL --> DQL[🎮 Deep Q Learning]
+    RL --> PO[📈 Policy Optimization]
+
+    R --> AC[💜 Affective Computing]
+    AC --> ER[🎓 Emotion Recognition]
+    AC --> AL[📚 Adaptive Learning]
+    AC --> MAI[👥 Multimodal AI]
+
+    R --> PUB[📝 Publications]
+    PUB --> JP[📑 Journal Papers]
+    PUB --> CT[🎤 Conference Talks]
+    PUB --> RC[🤝 Research Collabs]
 ```
 
 
