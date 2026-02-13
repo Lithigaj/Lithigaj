@@ -156,41 +156,41 @@ me = LithigaResearch()
 %%{init: {'theme': 'base', 'themeVariables': {
   'background': '#0D1117',
 
-  'primaryColor': '#9D4EDD',
-  'secondaryColor': '#C77DFF',
-  'tertiaryColor': '#7B2CBF',
+  'primaryColor': '#7B2CBF',
+  'secondaryColor': '#9D4EDD',
+  'tertiaryColor': '#C77DFF',
 
   'primaryBorderColor': '#E0AAFF',
-  'lineColor': '#C77DFF',
+  'lineColor': '#9D4EDD',
 
   'textColor': '#FFFFFF',
   'primaryTextColor': '#FFFFFF',
   'secondaryTextColor': '#FFFFFF',
   'tertiaryTextColor': '#FFFFFF',
 
-  'mindmapNodeBkg': '#9D4EDD',
-  'mindmapNodeBorder': '#E0AAFF',
-  'mindmapTextColor': '#FFFFFF'
+  'nodeTextColor': '#FFFFFF',
+  'mainBkg': '#7B2CBF',
+  'nodeBorder': '#E0AAFF'
 }}}%%
 
 mindmap
-  root((<b>🧠<br>Research</b>))
-    <b>📊 Computer Vision</b>
-      <b>🏏 Sports Analytics</b>
-      <b>🤟 Gesture Recognition</b>
-      <b>👁️ Object Detection</b>
-    <b>🤖 Reinforcement Learning</b>
-      <b>🚗 Autonomous Systems</b>
-      <b>🎮 Deep Q Learning</b>
-      <b>📈 Policy Optimization</b>
-    <b>💜 Affective Computing</b>
-      <b>🎓 Emotion Recognition</b>
-      <b>📚 Adaptive Learning</b>
-      <b>👥 Multimodal AI</b>
-    <b>📝 Publications</b>
-      <b>📑 Journal Papers</b>
-      <b>🎤 Conference Talks</b>
-      <b>🤝 Research Collabs</b>
+  root((🧠 Research))
+    📊 Computer Vision
+      🏏 Sports Analytics
+      🤟 Gesture Recognition
+      👁️ Object Detection
+    🤖 Reinforcement Learning
+      🚗 Autonomous Systems
+      🎮 Deep Q Learning
+      📈 Policy Optimization
+    💜 Affective Computing
+      🎓 Emotion Recognition
+      📚 Adaptive Learning
+      👥 Multimodal AI
+    📝 Publications
+      📑 Journal Papers
+      🎤 Conference Talks
+      🤝 Research Collabs
 ```
 
 
