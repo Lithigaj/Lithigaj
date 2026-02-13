@@ -44,7 +44,7 @@ me = LithigaResearch()
 <div align="center">
   
 | Status | Title | Field | Year |
-|--------|-------|-------|------|
+|:-------|:------|:------|:-----|
 | 📄 **Under Publication** | Emotion-Aware Adaptation in E-Learning: A Real-Time Multimodal Virtual Teaching Assistant | AI in Education | 2024 |
 | ✅ **Published** | Real-Time Umpire Signal Detection in Cricket: A Hybrid Deep Learning Solution | Computer Vision | 2024 |
 | ✅ **Published** | Autonomous Driving System Based on Deep Q Learning | Reinforcement Learning | 2024 |
@@ -56,7 +56,7 @@ me = LithigaResearch()
 <div align="center">
   
 | Project | Tech Stack | Status |
-|---------|------------|--------|
+|:--------|:-----------|:-------|
 | 🎓 **Emotion-Aware Teaching Assistant** | `CNN` `LSTM` `Computer Vision` | 📄 Under Publication |
 | 🏏 **Cricket Umpire Signal Detection** | `Hybrid DL` `Video Processing` | ✅ Published |
 | 🚗 **Autonomous Driving with DQN** | `Deep Q Learning` `Reinforcement Learning` | ✅ Published |
@@ -98,12 +98,12 @@ me = LithigaResearch()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 **GitHub Research Analytics**
+## 📊 **Research Analytics**
 
 <div align="center">
   
 | Metric | Value |
-|--------|-------|
+|:-------|:------|
 | 📝 **Publications** | 3 (2 Published, 1 Under Review) |
 | 💻 **Research Projects** | 5 Active Projects |
 | 🤝 **Collaborations** | Open for Research |
@@ -111,14 +111,24 @@ me = LithigaResearch()
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lithigaj&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff&bg_color=0D1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithigaj&layout=compact&theme=radical&hide_border=true&title_color=9D4EDD&text_color=ffffff&bg_color=0D1117" />
   <br>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithigaj&theme=radical&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lithigaj&theme=radical&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=9D4EDD" />
 </div>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lithigaj&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/>
+<br>
+
+<div align="center">
+  
+| 📊 **Contributions** | 🔥 **Current Streak** | ⚡ **Longest Streak** |
+|:--------------------:|:---------------------:|:---------------------:|
+| 23 | 0 | 3 |
+
+</div>
+
+<!-- GitHub Activity Graph with Custom Colors -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lithigaj&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=9D4EDD&line=9D4EDD&point=ffffff&area_color=9D4EDD" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
@@ -126,17 +136,21 @@ me = LithigaResearch()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lithiga-jayaprakash-51881525a/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00CCBB)](https://www.researchgate.net/profile/Lithiga-Jayaprakash)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:lithigaj28@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Lithigaj)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=4285F4)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/lithiga-jayaprakash-51881525a/)
+[![ResearchGate](https://img.shields.io/badge/RESEARCHGATE-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=00CCBB)](https://www.researchgate.net/profile/Lithiga-Jayaprakash)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:lithigaj28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Lithigaj)
 
 </div>
 
 ## 🎯 **Current Research Focus**
 
 <div align="center">
+
+### **Publications** ⋆ **Affective Computing** ⋆ **Multimodal AI**
+### **Deep Q Learning** ⋆ **Autonomous Systems** ⋆ **Policy Optimization**
+### **Adaptive Learning** ⋆ **Emotion Recognition** ⋆ **Conference Talks**
+### **Journal Papers** ⋆ **Research Collaborations**
 
 ```mermaid
 mindmap
@@ -166,7 +180,7 @@ mindmap
 <div align="center">
 
 | Year | Achievement |
-|------|-------------|
+|:-----|:------------|
 | 2024 | 📄 Paper Accepted: Emotion-Aware E-Learning System |
 | 2024 | ✅ Published: Umpire Signal Detection in Cricket |
 | 2024 | ✅ Published: Autonomous Driving with Deep Q Learning |
@@ -181,7 +195,7 @@ mindmap
 
 <div align="center">
   
-### 💡 *"Research is to see what everybody else has seen, and think what nobody else has thought."*
+### 💡 *"The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein*
 
 <br>
 
@@ -189,9 +203,8 @@ mindmap
 
 <br>
 
-[![ResearchGate](https://img.shields.io/badge/VIEW_RESEARCH-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=black)](https://www.researchgate.net/profile/Lithiga-Jayaprakash)
-[![SCHOLAR](https://img.shields.io/badge/VIEW_PAPERS-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![GITHUB](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/Lithigaj)
+[![ResearchGate](https://img.shields.io/badge/VIEW_RESEARCH-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=000000)](https://www.researchgate.net/profile/Lithiga-Jayaprakash)
+[![GitHub](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Lithigaj)
 
 <br>
 
@@ -203,8 +216,24 @@ mindmap
 
 <div align="center">
   
-### ⚡ *Open for research collaborations, paper reviews, and academic discussions!* ⚡
+### ⚡ *"Research is creating new knowledge." – Neil Armstrong* ⚡
 
-**Last Updated: 2024** 
+**Open for research collaborations, paper reviews, and academic discussions!**
+
+**Last Updated: 2024**
 
 </div>
+
+---
+
+## ✅ **Changes Made:**
+
+| Change | Details |
+|--------|---------|
+| **Removed Google Scholar** | Deleted the Google Scholar badge and link |
+| **New Research Proverb** | Added Einstein quote about curiosity |
+| **Footer Proverb** | Added Neil Armstrong quote about research |
+| **Clean Layout** | Maintained all sections with proper formatting |
+| **Color Scheme** | Kept consistent purple (#9D4EDD) theme |
+
+Perfect for your research-focused GitHub profile! 🎓🔬
