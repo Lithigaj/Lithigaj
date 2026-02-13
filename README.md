@@ -190,13 +190,13 @@ mindmap
 
 <div align="center">
 
-| Year | Achievement |
-|:-----|:------------|
-| 2024 | 📄 Paper Accepted: Emotion-Aware E-Learning System |
-| 2024 | ✅ Published: Umpire Signal Detection in Cricket |
-| 2024 | ✅ Published: Autonomous Driving with Deep Q Learning |
-| 2024-25 | 🔬 Active Research in Multimodal Learning |
-| 2025 | 🤝 Open for Research Collaborations |
+| Achievement |
+|:------------|
+| 📄 Paper Accepted: Emotion-Aware E-Learning System |
+| ✅ Published: Umpire Signal Detection in Cricket |
+| ✅ Published: Autonomous Driving with Deep Q Learning |
+| 🔬 Active Research in Multimodal Learning |
+| 🤝 Open for Research Collaborations |
 
 </div>
 
