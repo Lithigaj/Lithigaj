@@ -45,9 +45,9 @@ me = LithigaResearch()
   
 | Status | Title | Field | Year |
 |:-------|:------|:------|:-----|
-| 📄 **Under Publication** | Emotion-Aware Adaptation in E-Learning: A Real-Time Multimodal Virtual Teaching Assistant | AI in Education | 2024 |
-| ✅ **Published** | Real-Time Umpire Signal Detection in Cricket: A Hybrid Deep Learning Solution | Computer Vision | 2024 |
-| ✅ **Published** | Autonomous Driving System Based on Deep Q Learning | Reinforcement Learning | 2024 |
+| 📄 **Under Publication** | Emotion-Aware Adaptation in E-Learning: A Real-Time Multimodal Virtual Teaching Assistant | AI in Education | 2026 |
+| ✅ **Published** | Real-Time Umpire Signal Detection in Cricket: A Hybrid Deep Learning Solution | Computer Vision | 2025 |
+| ✅ **Published** | Autonomous Driving System Based on Deep Q Learning | Reinforcement Learning | 2025 |
 
 </div>
 
