@@ -98,18 +98,6 @@ me = LithigaResearch()
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 📊 **Research Analytics**
-
-<div align="center">
-  
-| Metric | Value |
-|:-------|:------|
-| 📝 **Publications** | 3 (2 Published, 1 Under Review) |
-| 💻 **Research Projects** | 5 Active Projects |
-| 🤝 **Collaborations** | Open for Research |
-
-</div>
-
 <div align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=Lithigaj&theme=midnight-purple&hide_border=true" />
 </div>
