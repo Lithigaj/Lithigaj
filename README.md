@@ -103,12 +103,6 @@ me = LithigaResearch()
 </div>
 <br>
 
-
-<!-- GitHub Activity Graph with Custom Colors -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lithigaj&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=9D4EDD&line=9D4EDD&point=ffffff&area_color=9D4EDD" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
 ## 🌐 **Research Presence**
 
 <div align="center">
