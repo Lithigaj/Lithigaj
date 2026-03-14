@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lithiga Jayaprakash!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=500&lines=AI%2FML+Researcher;3x+Published+Author;Computer+Vision+Enthusiast;Research+Scholar;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=500&lines=AI%2FML+Researcher;3x+Published+Author;Tech+Enthusiast;Research+Scholar;Always+Learning" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -119,49 +119,6 @@ me = LithigaResearch()
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Lithigaj)
 
 </div>
-
-## 🎯 **Current Research Focus**
-
-<div align="center">
-
-### **Publications** ⋆ **Affective Computing** ⋆ **Multimodal AI**
-### **Deep Q Learning** ⋆ **Autonomous Systems** ⋆ **Policy Optimization**
-### **Adaptive Learning** ⋆ **Emotion Recognition** ⋆ **Conference Talks**
-### **Journal Papers** ⋆ **Research Collaborations**
-
-```mermaid
-flowchart TD
-    classDef main fill:#9D4EDD,color:white,stroke-width:2px
-    classDef sub fill:#1F1B24,color:white
-    classDef leaf fill:#0D1117,color:#9D4EDD,stroke:#9D4EDD
-
-    R((🧠 Research)):::main
-
-    R --> CV[📊 Computer Vision]:::sub
-    CV --> SA[🏏 Sports Analytics]:::leaf
-    CV --> GR[🤟 Gesture Recognition]:::leaf
-    CV --> OD[👁️ Object Detection]:::leaf
-
-    R --> RL[🤖 Reinforcement Learning]:::sub
-    RL --> AS[🚗 Autonomous Systems]:::leaf
-    RL --> DQL[🎮 Deep Q Learning]:::leaf
-    RL --> PO[📈 Policy Optimization]:::leaf
-
-    R --> AC[💜 Affective Computing]:::sub
-    AC --> ER[🎓 Emotion Recognition]:::leaf
-    AC --> AL[📚 Adaptive Learning]:::leaf
-    AC --> MAI[👥 Multimodal AI]:::leaf
-
-    R --> PUB[📝 Publications]:::sub
-    PUB --> JP[📑 Journal Papers]:::leaf
-    PUB --> CT[🎤 Conference Talks]:::leaf
-    PUB --> RC[🤝 Research Collabs]:::leaf
-```
-
-
-</div>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
